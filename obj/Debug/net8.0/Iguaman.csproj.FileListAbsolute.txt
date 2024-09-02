@@ -133,3 +133,4 @@ C:\IGuaman_BE\Iguaman\obj\Debug\net8.0\refint\Iguaman.dll
 C:\IGuaman_BE\Iguaman\obj\Debug\net8.0\Iguaman.pdb
 C:\IGuaman_BE\Iguaman\obj\Debug\net8.0\Iguaman.genruntimeconfig.cache
 C:\IGuaman_BE\Iguaman\obj\Debug\net8.0\ref\Iguaman.dll
+C:\IGuaman_BE\Iguaman\obj\Debug\net8.0\Iguaman.sourcelink.json

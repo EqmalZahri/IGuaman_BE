@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iguaman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caa504761d7f73f4fe5cd6d4e8c8e7b64cdaeed8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2cbf13a27444f176fd642f8813a532f4341940")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iguaman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iguaman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
