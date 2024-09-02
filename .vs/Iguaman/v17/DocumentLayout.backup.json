@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\iGuaman_BE2\\IGuaman_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\models\\peranan\\peranan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:models\\peranan\\peranan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\models\\pengguna\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:models\\pengguna\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\models\\pengguna\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:models\\pengguna\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\models\\peranan\\peranan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|solutionrelative:models\\peranan\\peranan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDF4429F-E2B0-4DD4-8499-DF52E89D3DD7}|Iguaman.csproj|c:\\iguaman_be2\\iguaman_be\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,8 +61,12 @@
               "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.Local.json",
               "DocumentMoniker": "C:\\iGuaman_BE2\\IGuaman_BE\\appsettings.Local.json",
               "RelativeDocumentMoniker": "appsettings.Local.json",
@@ -75,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\iGuaman_BE2\\IGuaman_BE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -88,20 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Peranan.cs",
               "DocumentMoniker": "C:\\iGuaman_BE2\\IGuaman_BE\\Models\\Peranan\\Peranan.cs",
               "RelativeDocumentMoniker": "Models\\Peranan\\Peranan.cs",
               "ToolTip": "C:\\iGuaman_BE2\\IGuaman_BE\\Models\\Peranan\\Peranan.cs",
               "RelativeToolTip": "Models\\Peranan\\Peranan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T04:16:48.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\iGuaman_BE2\\IGuaman_BE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -126,20 +130,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pengguna.cs",
               "DocumentMoniker": "C:\\iGuaman_BE2\\IGuaman_BE\\Models\\Pengguna\\Pengguna.cs",
               "RelativeDocumentMoniker": "Models\\Pengguna\\Pengguna.cs",
               "ToolTip": "C:\\iGuaman_BE2\\IGuaman_BE\\Models\\Pengguna\\Pengguna.cs",
               "RelativeToolTip": "Models\\Pengguna\\Pengguna.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T03:12:01.599Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IGuaman_BE\\Iguaman\\Iguaman.csproj": {}
+    "C:\\iGuaman_BE2\\IGuaman_BE\\Iguaman.csproj": {}
   },
   "projects": {
-    "C:\\IGuaman_BE\\Iguaman\\Iguaman.csproj": {
+    "C:\\iGuaman_BE2\\IGuaman_BE\\Iguaman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IGuaman_BE\\Iguaman\\Iguaman.csproj",
+        "projectUniqueName": "C:\\iGuaman_BE2\\IGuaman_BE\\Iguaman.csproj",
         "projectName": "Iguaman",
-        "projectPath": "C:\\IGuaman_BE\\Iguaman\\Iguaman.csproj",
-        "packagesPath": "C:\\Users\\eqmal\\.nuget\\packages\\",
-        "outputPath": "C:\\IGuaman_BE\\Iguaman\\obj\\",
+        "projectPath": "C:\\iGuaman_BE2\\IGuaman_BE\\Iguaman.csproj",
+        "packagesPath": "C:\\Users\\hamidah.mat\\.nuget\\packages\\",
+        "outputPath": "C:\\iGuaman_BE2\\IGuaman_BE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eqmal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hamidah.mat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
